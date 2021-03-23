@@ -1,4 +1,4 @@
-module github.com/marmotedu/log
+module github.com/huhouhua/log
 
 go 1.16
 

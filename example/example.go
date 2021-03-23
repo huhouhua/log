@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/marmotedu/log"
+	"github.com/huhouhua/log"
 )
 
 var (
